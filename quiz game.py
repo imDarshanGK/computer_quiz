@@ -15,7 +15,9 @@ questions_answers = [
     ("What does RAM stand for? ", "random access memory"),
     ("What does PSU stand for? ", "power supply"),
     ("What does HDD stand for? ", "hard disk drive"),
-    ("What does SSD stand for? ", "solid state drive")
+    ("What does SSD stand for? ", "solid state drive"),
+    ("What does LAN stand for? ", "local area network"),
+    ("What does WAN stand for? ", "wide area network")
 ]
 
 for question, correct_answer in questions_answers:
